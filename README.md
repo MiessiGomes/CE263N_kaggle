@@ -1,0 +1,1 @@
+Este projeto tem como objetivo prever a duração de viagens Uber/Lyft com base em dados de origem, destino, horário de saída e outras variáveis. Aplicamos técnicas avançadas de análise de dados, tratamento de outliers, transformação de variáveis e modelagem com LightGBM.
